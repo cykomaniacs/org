@@ -1,6 +1,10 @@
 # [CYKOMANIACS](https://github.com/cykomaniacs) ORGANIZATION
 
-Contains documents etc, such as licenses.
+Contains documents etc.
+
+## LICENSES
+
+- [MIT](https://github.com/cykomaniacs/org/blob/af1bb47572cb1a5f5e5fc628d5ca9d68fc5b6194/LICENSE)
 
 ## UPDATED
 
